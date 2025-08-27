@@ -1,5 +1,5 @@
 {
-  "name": "02-projeto-calculadora-nota",
+  "name": "1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  },
-  "devDependencies": {},
-  "description": ""
+    "prompt-sync-history": "^1.0.1"
+  }
 }
